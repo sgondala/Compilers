@@ -1,4 +1,5 @@
 #!/bin/bash
+#Small script to download CS143 lecture slides, Stanford
 
 for i in {0..19}
 do
