@@ -25,12 +25,6 @@ WHILE|while|FOR|for				return Loop;
 .                                           return matched()[0];
 
 
-
-
-
-
-
-
 // IDENTIFIERs have been defined as any character from the alphabet or
 // an underscore followed by 0 or more occurrences of any alphanumeric
 // character or an underscore. :alpha: and :digit: are predefined.

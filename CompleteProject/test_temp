@@ -1,5 +1,0 @@
-int main(){
-int a;
-a=2;
-printf(2,a,"Yo \n");
-}
